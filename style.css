@@ -1,0 +1,80 @@
+body{
+    height: 105vh;
+    background-image : linear-gradient(to top,#59C173,#a17fe0,#5D26C1);
+}
+h1{
+    padding-left: 10px;
+    color: white;
+}
+h4{
+    padding-left: 10px;
+    color: white;
+}
+h3{
+    padding-left: 10px;
+    color: white;
+}
+button {
+    background-color: transparent;
+    border:2px solid rgb(75, 230, 178);
+    border-radius: 5px;
+    color: rgb(75, 230, 178);
+}
+hr{
+    padding-left: 10px;
+    color: white
+}
+p{
+    padding-left: 10px;
+    color: white
+}
+input.name{
+    border-radius: 5px;
+}
+button.clear {
+    height: 30px;
+    width: 60px;
+    margin-left: 160px;
+    background-color: red;
+    border:2px solid red;
+    border-radius: 5px;
+    color: white;
+}
+button.submit {
+    height: 30px;
+    width: 60px;
+    margin-left: 10px;
+    background-color: purple;
+    border:2px solid purple;
+    border-radius: 5px;
+    color: white;
+}
+table{
+    border-color:solid black;
+    background-color: white;
+    margin-right: 60px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+h2.table{
+    display: inline;
+    padding-left: 320px;
+    color: white;
+}
+h2.re{
+    display: inline;
+    color: white;
+}
+td.sp{
+    padding: 10px 10px;
+}
+textarea{
+    border-radius: 5px;
+}
+td{
+    text-align: center;
+}
+h2{
+    display: inline;
+    color: white;
+}
